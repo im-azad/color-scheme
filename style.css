@@ -1,0 +1,37 @@
+/* html {
+	color-scheme: light dark;
+} */
+
+
+.buttons,
+form,
+.single {
+	width: fit-content;
+	margin: 3rem auto;
+}
+
+form {
+	font-family: sans-serif;
+	padding: 1rem 2rem 2rem;
+	border: 1px solid silver;
+	border-radius: 1.5rem;
+	box-shadow: 0 0 2rem -1.25rem CanvasText;
+}
+
+.site-container {
+	color-scheme: light dark;
+	display: flex;
+	justify-content: center;
+}
+
+.unstyled-site {
+	background-color: Canvas;
+	color: CanvasText;
+	padding: 1rem 3rem 2rem;
+}
+#light {
+	color-scheme: light;
+}
+#dark {
+	color-scheme: dark;
+}
